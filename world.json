@@ -1,0 +1,74 @@
+{
+  "name": "newTestWFRP",
+  "title": "The Old World",
+  "description": "",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [
+    {
+      "name": "worldmaps",
+      "label": "World Maps",
+      "path": "packs/worldmaps.db",
+      "entity": "Scene",
+      "package": "world"
+    },
+    {
+      "name": "battlemaps",
+      "label": "Battle Maps",
+      "path": "packs/battlemaps.db",
+      "entity": "Scene",
+      "package": "world"
+    },
+    {
+      "name": "hombrewbestiary",
+      "label": "Hombrew Bestiary",
+      "path": "packs/hombrewbestiary.db",
+      "entity": "Actor",
+      "package": "world"
+    },
+    {
+      "name": "namednpcs",
+      "label": "Named NPCs",
+      "path": "packs/namednpcs.db",
+      "entity": "Actor",
+      "package": "world"
+    },
+    {
+      "name": "dogcareer",
+      "label": "Dog Career",
+      "path": "packs/dogcareer.db",
+      "entity": "Item",
+      "package": "world"
+    },
+    {
+      "name": "ruleskron",
+      "label": "Rules Kron",
+      "path": "packs/ruleskron.db",
+      "entity": "JournalEntry",
+      "package": "world"
+    }
+  ],
+  "languages": [],
+  "authors": [],
+  "keywords": [],
+  "socket": false,
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "",
+  "readme": "",
+  "bugs": "",
+  "changelog": "",
+  "background": "worlds/newTestWFRP/scenes/Ubersreik_Bridge.jpg",
+  "system": "wfrp4e",
+  "coreVersion": "0.5.1",
+  "systemVersion": "1.0.3",
+  "id": "newTestWFRP",
+  "nextSession": "",
+  "target": "edit",
+  "unavailable": 0
+}
