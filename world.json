@@ -50,6 +50,13 @@
       "path": "packs/ruleskron.db",
       "entity": "JournalEntry",
       "package": "world"
+    },
+    {
+      "name": "homebrewdtrappings",
+      "label": "Homebrew'd Trappings",
+      "path": "packs/homebrewdtrappings.db",
+      "entity": "Item",
+      "package": "world"
     }
   ],
   "languages": [],
@@ -66,7 +73,7 @@
   "background": "worlds/newTestWFRP/scenes/Ubersreik_Bridge.jpg",
   "system": "wfrp4e",
   "coreVersion": "0.5.1",
-  "systemVersion": "1.0.3",
+  "systemVersion": "1.0.4",
   "id": "newTestWFRP",
   "nextSession": "",
   "target": "edit",
