@@ -38,13 +38,6 @@
       "package": "world"
     },
     {
-      "name": "dogcareer",
-      "label": "Dog Career",
-      "path": "packs/dogcareer.db",
-      "entity": "Item",
-      "package": "world"
-    },
-    {
       "name": "ruleskron",
       "label": "Rules Kron",
       "path": "packs/ruleskron.db",
@@ -55,6 +48,27 @@
       "name": "homebrewdtrappings",
       "label": "Homebrew'd Trappings",
       "path": "packs/homebrewdtrappings.db",
+      "entity": "Item",
+      "package": "world"
+    },
+    {
+      "name": "petcareers",
+      "label": "Pet Careers",
+      "path": "packs/petcareers.db",
+      "entity": "Item",
+      "package": "world"
+    },
+    {
+      "name": "homebrewdtalents",
+      "label": "Homebrew'd Talents",
+      "path": "packs/homebrewdtalents.db",
+      "entity": "Item",
+      "package": "world"
+    },
+    {
+      "name": "homebrewdtraits",
+      "label": "Homebrew'd Traits",
+      "path": "packs/homebrewdtraits.db",
       "entity": "Item",
       "package": "world"
     }

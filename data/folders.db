@@ -17,7 +17,7 @@
 {"_id":"JcYfyGGrlZFSUcAv","name":"Locations","type":"JournalEntry","sort":2800000,"flags":{},"parent":"U3aSsLzXyNJXGSY7","color":""}
 {"_id":"LLtW08ODDUzKUMj7","name":"People","type":"JournalEntry","sort":2100000,"flags":{},"parent":"q1672cU62zzJUZls","color":""}
 {"name":"Heart of Glass","type":"Actor","sort":300000,"flags":{},"parent":"BMOAycjyp42Qxblg","color":"","_id":"M2yee0rMawYgZwYi"}
-{"name":"Dogs","type":"JournalEntry","sort":4100000,"flags":{},"parent":"iEF1N3Q3WZEshaDQ","color":"","_id":"Mck4uv8FxNNcVfpJ"}
+{"_id":"Mck4uv8FxNNcVfpJ","name":"Dogs, Cats & Horses","type":"JournalEntry","sort":4100000,"flags":{},"parent":"iEF1N3Q3WZEshaDQ","color":""}
 {"name":"The Hollow Knight","type":"JournalEntry","sort":3400000,"flags":{},"parent":"j9bi8m4JUrpxdoAS","color":"","_id":"NKCZZAiKIA2IpbQ3"}
 {"_id":"NMnecBsgnqkfZXmu","name":"Locations","type":"JournalEntry","sort":2200000,"flags":{},"parent":"q1672cU62zzJUZls","color":""}
 {"_id":"RNJy4E7Yn1s9XP1o","name":"Cults","type":"JournalEntry","sort":1000000,"flags":{},"parent":"lfsg8nYcGtWh2PUc","color":""}
@@ -55,8 +55,10 @@
 {"_id":"t8PYka1OALqXuESH","name":"NPCs","type":"Actor","sort":100000,"flags":{},"parent":null,"color":"#1822cd"}
 {"_id":"tNO5qeBHLBsbw71H","name":"Black Rock","type":"JournalEntry","sort":200000,"flags":{},"parent":"lfsg8nYcGtWh2PUc","color":""}
 {"name":"Corruption & Mutation","type":"RollTable","sort":null,"flags":{},"parent":null,"color":"","_id":"tYcvvKumPOmGSEgZ"}
+{"name":"Horses","type":"JournalEntry","sort":5200000,"flags":{},"parent":"Mck4uv8FxNNcVfpJ","color":"","_id":"wEGAG5u38cwD7HOC"}
 {"_id":"wdk8Im5rsI8IyWkE","name":"Local Maps","type":"Scene","sort":200000,"flags":{},"parent":null,"color":""}
 {"name":"Damage, Healing, & Death","type":"JournalEntry","sort":4000000,"flags":{},"parent":"iEF1N3Q3WZEshaDQ","color":"","_id":"xTAmVR2StL7ifeS7"}
 {"_id":"y3zur9PQHo8eqJXm","name":"People","type":"JournalEntry","sort":2500000,"flags":{},"parent":"U3aSsLzXyNJXGSY7","color":""}
 {"_id":"yuQvIPkPHsnQf35g","name":"Class Endeavours","type":"JournalEntry","sort":4400000,"flags":{},"parent":"S5eRTYMmaD4TbfpS","color":""}
+{"name":"Dogs","type":"JournalEntry","sort":5100000,"flags":{},"parent":"Mck4uv8FxNNcVfpJ","color":"","_id":"z6amJddNDit4oDkq"}
 {"_id":"zFOkaDGX05ZIut97","name":"Handouts","type":"JournalEntry","sort":100000,"flags":{},"parent":"HJSHBRhHZZCGBiz6","color":""}
