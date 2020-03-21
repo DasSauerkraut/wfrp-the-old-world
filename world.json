@@ -71,6 +71,13 @@
       "path": "packs/homebrewdtraits.db",
       "entity": "Item",
       "package": "world"
+    },
+    {
+      "name": "flavormaps",
+      "label": "Flavor Maps",
+      "path": "packs/flavormaps.db",
+      "entity": "Scene",
+      "package": "world"
     }
   ],
   "languages": [],

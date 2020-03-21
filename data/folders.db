@@ -16,6 +16,7 @@
 {"_id":"Ikdiw6tbUybZiK4w","type":"Actor","name":"PCs","sort":null,"flags":{},"parent":null,"color":"#07a01f"}
 {"_id":"JcYfyGGrlZFSUcAv","name":"Locations","type":"JournalEntry","sort":2800000,"flags":{},"parent":"U3aSsLzXyNJXGSY7","color":""}
 {"_id":"LLtW08ODDUzKUMj7","name":"People","type":"JournalEntry","sort":2100000,"flags":{},"parent":"q1672cU62zzJUZls","color":""}
+{"_id":"LaHw0WkCx8QFJfZd","name":"Player Notes","type":"JournalEntry","sort":325000,"flags":{},"parent":null,"color":""}
 {"name":"Heart of Glass","type":"Actor","sort":300000,"flags":{},"parent":"BMOAycjyp42Qxblg","color":"","_id":"M2yee0rMawYgZwYi"}
 {"_id":"Mck4uv8FxNNcVfpJ","name":"Dogs, Cats & Horses","type":"JournalEntry","sort":4100000,"flags":{},"parent":"iEF1N3Q3WZEshaDQ","color":""}
 {"name":"The Hollow Knight","type":"JournalEntry","sort":3400000,"flags":{},"parent":"j9bi8m4JUrpxdoAS","color":"","_id":"NKCZZAiKIA2IpbQ3"}
@@ -62,3 +63,8 @@
 {"_id":"yuQvIPkPHsnQf35g","name":"Class Endeavours","type":"JournalEntry","sort":4400000,"flags":{},"parent":"S5eRTYMmaD4TbfpS","color":""}
 {"name":"Dogs","type":"JournalEntry","sort":5100000,"flags":{},"parent":"Mck4uv8FxNNcVfpJ","color":"","_id":"z6amJddNDit4oDkq"}
 {"_id":"zFOkaDGX05ZIut97","name":"Handouts","type":"JournalEntry","sort":100000,"flags":{},"parent":"HJSHBRhHZZCGBiz6","color":""}
+{"name":"Flavour","type":"Scene","sort":300000,"flags":{},"parent":null,"color":"","_id":"tYDYwut549EoXzWS"}
+{"_id":"tYDYwut549EoXzWS","name":"Flavour","type":"Scene","sort":0,"flags":{},"parent":null,"color":""}
+{"_id":"tYDYwut549EoXzWS","name":"Flavour","type":"Scene","sort":200000,"flags":{},"parent":null,"color":""}
+{"_id":"wdk8Im5rsI8IyWkE","name":"Local Maps","type":"Scene","sort":300000,"flags":{},"parent":null,"color":""}
+{"_id":"tYDYwut549EoXzWS","name":"Flavour","type":"Scene","sort":0,"flags":{},"parent":null,"color":""}

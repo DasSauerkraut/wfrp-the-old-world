@@ -7,3 +7,6 @@
 {"_id":"z1Rwoivtpe5De8qS","name":"Clay","sort":100001,"flags":{},"role":2,"permissions":{},"password":"","avatar":"icons/svg/mystery-man.svg","character":"GC0OV9fFmjDSq8ml","color":"#cc2870","hotbar":{}}
 {"_id":"zXXI553Z7gWuzgkE","name":"Shane","permission":2,"sort":100001,"flags":{},"role":2,"permissions":{},"password":"","avatar":"icons/svg/mystery-man.svg","scene":"70btulJRH8UaxzSx","character":"YedpsAuNp2cGg1pK","color":"#ebda0a"}
 {"_id":"zi8gllRBykKF53eg","name":"Keim","permission":2,"sort":100001,"flags":{},"role":2,"permissions":{},"password":"","avatar":"icons/svg/mystery-man.svg","scene":"70btulJRH8UaxzSx","character":"lSbEECNefgqzUoru","color":"#0080ff"}
+{"_id":"HRTYgvUkaYIQphUE","name":"Michael","sort":100001,"flags":{},"role":2,"permissions":{},"password":"","avatar":"icons/svg/mystery-man.svg","character":"","color":"#1e7c18","hotbar":{}}
+{"_id":"HRTYgvUkaYIQphUE","name":"Michael","sort":100001,"flags":{},"role":2,"permissions":{},"password":"","avatar":"icons/svg/mystery-man.svg","character":"PcvDPG5RTlsCfNv7","color":"#1e7c18","hotbar":{}}
+{"_id":"Gs6BiNeIVlBSyRtL","name":"Noah","sort":100001,"flags":{},"role":2,"permissions":{},"password":"","avatar":"icons/svg/mystery-man.svg","character":"stmnAAJWjM6yQSv1","color":"#ff8040","hotbar":{}}
