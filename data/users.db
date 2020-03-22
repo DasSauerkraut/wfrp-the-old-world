@@ -1,5 +1,5 @@
-{"_id":"Gs6BiNeIVlBSyRtL","name":"Noah","permission":2,"sort":100001,"flags":{},"role":2,"permissions":{},"password":"","avatar":"icons/svg/mystery-man.svg","scene":"70btulJRH8UaxzSx","character":"stmnAAJWjM6yQSv1","color":"#ff80ff"}
-{"_id":"HRTYgvUkaYIQphUE","name":"Michael","permission":2,"sort":100001,"flags":{},"role":2,"permissions":{},"password":"","color":"#32cc28"}
+{"_id":"Gs6BiNeIVlBSyRtL","name":"Noah","sort":100001,"flags":{},"role":2,"permissions":{},"password":"","avatar":"icons/svg/mystery-man.svg","character":"stmnAAJWjM6yQSv1","color":"#ff8040","hotbar":{}}
+{"_id":"HRTYgvUkaYIQphUE","name":"Michael","sort":100001,"flags":{},"role":2,"permissions":{},"password":"","avatar":"icons/svg/mystery-man.svg","character":"PcvDPG5RTlsCfNv7","color":"#1e7c18","hotbar":{}}
 {"_id":"fYDVZ60Klus8JZw1","name":"Cessna","permission":2,"sort":100001,"flags":{},"role":2,"permissions":{},"password":"","avatar":"icons/svg/mystery-man.svg","scene":"70btulJRH8UaxzSx","character":"FxOIcNhSPzDzdkwl","color":"#ff0000"}
 {"_id":"jThuN6kiSWiq7tqo","name":"GM","permission":4,"sort":100001,"flags":{},"role":4,"permissions":{},"password":"elevation","scene":"70btulJRH8UaxzSx","color":"#28cc7c"}
 {"_id":"qe38CidmAnjMDtHh","name":"Stebbins","permission":0,"sort":100001,"flags":{},"role":2,"permissions":{},"password":"","avatar":"icons/svg/mystery-man.svg","scene":"70btulJRH8UaxzSx","character":"4MG2sZn4gbi7H24T","color":"#400080"}
@@ -7,6 +7,3 @@
 {"_id":"z1Rwoivtpe5De8qS","name":"Clay","sort":100001,"flags":{},"role":2,"permissions":{},"password":"","avatar":"icons/svg/mystery-man.svg","character":"GC0OV9fFmjDSq8ml","color":"#cc2870","hotbar":{}}
 {"_id":"zXXI553Z7gWuzgkE","name":"Shane","permission":2,"sort":100001,"flags":{},"role":2,"permissions":{},"password":"","avatar":"icons/svg/mystery-man.svg","scene":"70btulJRH8UaxzSx","character":"YedpsAuNp2cGg1pK","color":"#ebda0a"}
 {"_id":"zi8gllRBykKF53eg","name":"Keim","permission":2,"sort":100001,"flags":{},"role":2,"permissions":{},"password":"","avatar":"icons/svg/mystery-man.svg","scene":"70btulJRH8UaxzSx","character":"lSbEECNefgqzUoru","color":"#0080ff"}
-{"_id":"HRTYgvUkaYIQphUE","name":"Michael","sort":100001,"flags":{},"role":2,"permissions":{},"password":"","avatar":"icons/svg/mystery-man.svg","character":"","color":"#1e7c18","hotbar":{}}
-{"_id":"HRTYgvUkaYIQphUE","name":"Michael","sort":100001,"flags":{},"role":2,"permissions":{},"password":"","avatar":"icons/svg/mystery-man.svg","character":"PcvDPG5RTlsCfNv7","color":"#1e7c18","hotbar":{}}
-{"_id":"Gs6BiNeIVlBSyRtL","name":"Noah","sort":100001,"flags":{},"role":2,"permissions":{},"password":"","avatar":"icons/svg/mystery-man.svg","character":"stmnAAJWjM6yQSv1","color":"#ff8040","hotbar":{}}
